@@ -10,11 +10,11 @@ This study was conducted to investigate the various factors affecting the intere
 The data used for this analysis was downloaded from Coursera.org on November 8, 2013 which includes a sample of 2,500 loans from Lending Club.
 ###Exploratory Analysis
 Non-graphical methods such as data summaries and cross-tabulation, and graphical methods such as scatter plots and boxplots were utilized to perform exploratory data analysis in order to 
-1. Identify missing values
-2. Identify outliers and unusual features in the data
-3. Verify quality of the data
-4. Explore correlations between all variables
-5. Transform variables to the appropriate class for further analysis
+*Identify missing values  
+*Identify outliers and unusual features in the data  
+*Verify quality of the data  
+*Explore correlations between all variables  
+*Transform variables to the appropriate class for further analysis  
 ###Statistical Modelling
 To exhibit the relationship between the interest rate and the explanatory variables, a multivariate linear regression model was employed . The explanatory variables and the model were selected based on the outcome of our exploratory analysis and the coefficients in the model were estimated with ordinary least squares.
 ###Reproducibility
