@@ -14,7 +14,8 @@ Non-graphical methods such as data summaries and cross-tabulation, and graphical
 * Identify outliers and unusual features in the data  
 * Verify quality of the data  
 * Explore correlations between all variables  
-* Transform variables to the appropriate class for further analysis  
+* Transform variables to the appropriate class for further analysis
+
 ###Statistical Modelling
 To exhibit the relationship between the interest rate and the explanatory variables, a multivariate linear regression model was employed . The explanatory variables and the model were selected based on the outcome of our exploratory analysis and the coefficients in the model were estimated with ordinary least squares.
 ###Reproducibility
